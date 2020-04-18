@@ -1,0 +1,50 @@
+Cellname;S1;S2;S3
+Smad3;GABA;Neural;Smad3
+Ndnf Car4;GABA;Neural;Ndnf
+Ndnf Cxcl14;GABA;Neural;Ndnf
+Vip Gpc3;GABA;Neural;Vip
+Vip Chat;GABA;Neural;Vip
+Vip Parm1;GABA;Neural;Vip
+Vip Mybpc1;GABA;Neural;Vip
+Vip Sncg;GABA;Neural;Vip
+Sncg;GABA;Neural;Sncg
+Sst Chodl;GABA;Neural;Sst
+Sst Cdk6;GABA;Neural;Sst
+Sst Cbln4;GABA;Neural;Sst
+Sst Myh8;GABA;Neural;Sst
+Sst Tacstd2;GABA;Neural;Sst
+Sst Th;GABA;Neural;Sst
+Pvalb Cpne5;GABA;Neural;Pvalb
+Pvalb Tpbg;GABA;Neural;Pvalb
+Pvalb Gpx3;GABA;Neural;Pvalb
+Pvalb Rspo2;GABA;Neural;Pvalb
+Pvalb Wt1;GABA;Neural;Pvalb
+Pvalb Obox3;GABA;Neural;Pvalb
+Pvalb Tacr3;GABA;Neural;Pvalb
+Igtp;GABA;Neural;Igtp
+L2 Ngb;Glutamate;Neural;L2
+L2/3 Ptgs2;Glutamate;Neural;L2
+L4 Ctxn3;Glutamate;Neural;L4
+L4 Scnn1a;Glutamate;Neural;L4
+L4 Arf5;Glutamate;Neural;L4
+L5a Hsd11b1;Glutamate;Neural;L5a
+L5a Tcerg1l;Glutamate;Neural;L5a
+L5a Pde1c;Glutamate;Neural;L5a
+L5a Batf3;Glutamate;Neural;L5a
+L5 Ucma;Glutamate;Neural;L5
+L5b Tph2;Glutamate;Neural;L5b
+L5b Cdh13;Glutamate;Neural;L5b
+L5b Chrna6;Glutamate;Neural;L5b
+L6a Mgp;Glutamate;Neural;L6a
+L6a Sla;Glutamate;Neural;L6a
+L6a Car12;Glutamate;Neural;L6a
+L6a Syt17;Glutamate;Neural;L6a
+L6b Serpinb11;Glutamate;Neural;L6b
+L6b Rgs12;Glutamate;Neural;L6b
+Astro Aqp4;NonNeural;NonNeural;Astro
+OPC Pdgfra;NonNeural;NonNeural;OPC
+Oligo 96*Rik;NonNeural;NonNeural;Oligo
+Oligo Opalin;NonNeural;NonNeural;Oligo
+Micro Ctss;NonNeural;NonNeural;Micro
+Endo Xdh;NonNeural;NonNeural;Endo
+SMC Myl9;NonNeural;NonNeural;SMC
